@@ -1,0 +1,39 @@
+{
+    "data": {
+        "data": [
+            {
+                "cursor": 0,
+                "createdAt": "2017-07-11T00:23:54.996Z",
+                "updatedAt": "2017-07-11T00:23:54.996Z",
+                "name": "kml  llk mlk m",
+                "description": "sada asdasd",
+                "value": {
+                    "small": 54645,
+                    "medium": 234234,
+                    "large": 234
+                },
+                "default": true,
+                "__v": 0
+            },
+            {
+                "cursor": 1,
+                "createdAt": "2017-07-11T00:24:45.890Z",
+                "updatedAt": "2017-07-11T00:24:45.890Z",
+                "name": "asdasd",
+                "description": "asdasd",
+                "value": {
+                    "small": 7523400,
+                    "medium": 234,
+                    "large": 3423
+                },
+                "__v": 0
+            }
+        ],
+        "paging": {
+            "totalItems": 2,
+            "limit": 10,
+            "page": 1,
+            "totalPages": 1
+        }
+    }
+}
