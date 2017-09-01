@@ -8,5 +8,21 @@
         "name": "namo"
       }
     }
-  ]
+  ],
+  "user-posts": {
+    "user": {
+      "id": 1,
+      "name": "juan",
+      "posts": [
+        {
+          "id": 1,
+          "title": "titl 1"
+        },
+        {
+          "id": 2,
+          "title": "titl 2"
+        }
+      ]
+    }
+  }
 }
