@@ -1,18 +1,12 @@
 {
-    "data": {
-        "data": [
-            {
-                "name": "1"
-            },
-            {
-                "name": "2"
-            }
-        ],
-        "paging": {
-            "totalItems": 2,
-            "limit": 10,
-            "page": 1,
-            "totalPages": 1
-        }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "user": {
+        "id": 1,
+        "name": "namo"
+      }
     }
+  ]
 }
